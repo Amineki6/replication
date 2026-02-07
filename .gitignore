@@ -1,0 +1,10 @@
+# Ignore model weights
+*.ckpt
+*.pt
+*.bin
+
+# Ignore data
+mini_test_datasets/
+
+# Ignore OS junk
+.DS_Store
